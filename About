@@ -1,0 +1,10 @@
+# Python_Scripts
+
+Welcome to the Python_Scripts repository! This collection showcases various Python scripts designed for data analysis, automation, and machine learning. Whether you're a beginner or an experienced data scientist, these projects offer practical examples and insights.
+
+## Contents
+- **Data Wrangling with Pandas**: Scripts for cleaning, transforming, and analyzing data using Pandas.
+- **Data Visualization with Matplotlib and Seaborn**: Creating insightful charts and graphs.
+- **Machine Learning Models with scikit-learn**: Implementing predictive models and evaluating their performance.
+- **Automation Scripts**: Scripts for automating repetitive tasks and workflows.
+- **Web Scraping**: Extracting data from websites using BeautifulSoup and Scrapy.
